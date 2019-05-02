@@ -1,3 +1,3 @@
 # RasterToVec
-Software for image vectorization.\n
+Software for image vectorization.
 Status: Stopped
